@@ -23,7 +23,7 @@ http://localhost:5000/api/twit
 | :--- | :--- | :--- |
 | `cari` | `string` | **Required**. Kata yang akan di cari |
 | `limit` | `number` | **Required**. limit data yang diinginkan |
-| `jenis` | `string` | **Required**. `hastag `/`term`/`user` 
+| `jenis` | `string` | **Required**. `hashtag `/`term`/`user` 
 
 
 ## Example Request

@@ -19,7 +19,7 @@ class Controller:
                 'status_code'   : 1,  # Success
                 'total_data'    : total_data,
                 'msg'           : "success",
-                'data'          : result_tweets
+                'data'          : result_tweets['tweets']
             }
     
             return response_data, 200
